@@ -2,4 +2,4 @@
 more_dimensions (Remake)
 更多维度重置版
 
-1.18.2-fabrc
+1.17.1-fabrc
