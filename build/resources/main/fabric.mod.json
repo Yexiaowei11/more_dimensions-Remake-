@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "more_dimensions_remake",
+  "version": "1.0.0",
+  "name": "更多维度重置版",
+  "authors": [
+    "yexiaowei, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "more_dimensions_remake.MoreDimensionsRemakeMod"
+    ],
+    "client": [
+      "more_dimensions_remake.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "accessWidener": "modid.accesswidener"
+}
