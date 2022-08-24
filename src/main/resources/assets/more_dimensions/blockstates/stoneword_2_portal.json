@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "more_dimensions:block/stoneword_2_portal_ew"
+    },
+    "axis=x": {
+      "model": "more_dimensions:block/stoneword_2_portal_ns"
+    }
+  }
+}
